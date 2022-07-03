@@ -1,3 +1,5 @@
+// color, color pallete, breakpoints, globalstyle
+
 # Includes:
 
 - create react-app
