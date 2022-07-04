@@ -9,6 +9,7 @@ root.render(
   <React.StrictMode>
     <CssBaseline />
     <StylesGlobal />
+
     <App />
   </React.StrictMode>
 );
